@@ -1,0 +1,10 @@
+NODE_ENV=development
+#NODE_ENV=production
+
+APP_DB_HOST=<localhost>
+APP_DB_PORT=<3306>
+APP_DB_NAME=<you database name>
+APP_DB_USER= <your root>
+APP_DB_PASSWORD=<Your password>
+
+APP_AUTH_SECRET=<Your hash>
